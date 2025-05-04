@@ -6,6 +6,21 @@
     <description>Recent content on Evan Buggy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>StreetPass</title>
+      <link>http://localhost:1313/gallery/streetpass/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/streetpass/</guid>
+      <description>&lt;p&gt;This drawing was originally made for a 3DS and StreetPass themes coffee morning at my university.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Evan Buggy, a student at the University of Limerick currently in my 3rd year of computer science for game development. Video games, game development, modding, homebrew and programming in general keep me busy in my free time, as well as making an incessant amount of tea.&lt;/p&gt;&#xA;&lt;p&gt;Many aspects of game development pique my interest; things such as 2D art and spritework, 3D modelling, animation, writing, gameplay design and theory, programming and more. But as most developers do, on this website, you will probably find me discussing these things more than actually doing them.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
