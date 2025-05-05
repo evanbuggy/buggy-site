@@ -15,5 +15,47 @@
       <guid>http://localhost:1313/gallery/streetpass/</guid>
       <description>&lt;p&gt;This drawing was originally made for a 3DS and StreetPass themes coffee morning at my university.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>BeatWarez</title>
+      <link>http://localhost:1313/gallery/beatwarez/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/beatwarez/</guid>
+      <description>&lt;p&gt;This animation was made as a proof of concept for an old point and click game I used to work on when I was younger.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spamton</title>
+      <link>http://localhost:1313/gallery/spamton/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/spamton/</guid>
+      <description>&lt;p&gt;I believe this is the last piece I ever made that was something to post on social media. Most of what I do and draw now is meant for larger projects, or just concept art and doodles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Browser Girl</title>
+      <link>http://localhost:1313/gallery/browser_girl/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/browser_girl/</guid>
+      <description>&lt;p&gt;This is concept art I made for a character from a point and click game I developed when I was younger. She is meant to characterise an internet browser.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Browser Girl Concept Art</title>
+      <link>http://localhost:1313/gallery/browser_girl_concept_1/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/browser_girl_concept_1/</guid>
+      <description>&lt;p&gt;Typically when I do character design, the first thing I do is write down aspects and traits of their personality to help me visualise them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Browser Girl Concept Pose</title>
+      <link>http://localhost:1313/gallery/browser_girl_concept_2/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/browser_girl_concept_2/</guid>
+      <description>&lt;p&gt;Practicing poses for the browser girl.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Susie</title>
+      <link>http://localhost:1313/gallery/susie/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/susie/</guid>
+      <description>&lt;p&gt;A very old drawing of mine, from when I was 15. One of the few ones I am still proud of from way back when. As of writing this, I am 21 and chapter 3 is still not out&amp;hellip;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -4,8 +4,15 @@
     
         
         <url>
+            <loc>http://localhost:1313/about/</loc>
+            <lastmod>2025-05-04T21:05:33+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:1313/</loc>
-            <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+            <lastmod>2025-05-04T21:05:33+05:30</lastmod>
         </url>
         
     
@@ -25,8 +32,43 @@
     
         
         <url>
-            <loc>http://localhost:1313/about/</loc>
-            <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+            <loc>http://localhost:1313/gallery/beatwarez/</loc>
+            <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/spamton/</loc>
+            <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/browser_girl/</loc>
+            <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/browser_girl_concept_1/</loc>
+            <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/browser_girl_concept_2/</loc>
+            <lastmod>2021-09-08T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/susie/</loc>
+            <lastmod>2019-12-01T00:00:00+00:00</lastmod>
         </url>
         
     
