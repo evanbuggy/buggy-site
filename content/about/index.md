@@ -18,4 +18,6 @@ Blog posts will primarily be for whatever is on my mind, but generally speaking 
 
 This website is powered by Hugo, using the Console theme by [Marcin Mierzejewski](https://mrmierzejewski.com/).
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S31CIFY)
+
 Copyright © 2025 Evan Buggy
