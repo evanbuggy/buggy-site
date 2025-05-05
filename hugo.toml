@@ -23,6 +23,10 @@ languageCode = "en-us"
   name = "gallery/"
   url = "gallery/"
 
+  [[params.meta]]
+    favicon = false
+    faviconVersion = "1"
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
