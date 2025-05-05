@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://buggy.cafe/"
 title = "Evan Buggy"
 theme = "hugo-theme-console"
 languageCode = "en-us"
