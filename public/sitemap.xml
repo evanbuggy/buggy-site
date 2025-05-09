@@ -4,6 +4,41 @@
     
         
         <url>
+            <loc>http://localhost:1313/</loc>
+            <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/mario_kart_wii_static_analysis_with_ghidra/</loc>
+            <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/</loc>
+            <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/</loc>
+            <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/tutorial/</loc>
+            <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:1313/about/</loc>
             <lastmod>2025-05-04T21:05:33+05:30</lastmod>
         </url>
@@ -11,22 +46,43 @@
     
         
         <url>
-            <loc>http://localhost:1313/</loc>
-            <lastmod>2025-05-04T21:05:33+05:30</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/gallery/</loc>
-            <lastmod>2024-10-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>http://localhost:1313/gallery/streetpass/</loc>
             <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/cake_screen/</loc>
+            <lastmod>2024-04-07T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/funky_kong/</loc>
+            <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/mirror_room/</loc>
+            <lastmod>2023-05-11T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/protag_cute/</loc>
+            <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/tower/</loc>
+            <lastmod>2022-01-03T00:00:00+00:00</lastmod>
         </url>
         
     
@@ -62,6 +118,41 @@
         <url>
             <loc>http://localhost:1313/gallery/browser_girl_concept_2/</loc>
             <lastmod>2021-09-08T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/veronica/</loc>
+            <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/o_o/</loc>
+            <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/peach_odyssey_unused_outfit/</loc>
+            <lastmod>2020-12-25T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/raymond/</loc>
+            <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/gallery/dreambert/</loc>
+            <lastmod>2020-07-31T00:00:00+00:00</lastmod>
         </url>
         
     

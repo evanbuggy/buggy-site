@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Evan Buggy</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Evan Buggy</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mario Kart Wii Static Analysis with Ghidra</title>
+      <link>http://localhost:1313/posts/mario_kart_wii_static_analysis_with_ghidra/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mario_kart_wii_static_analysis_with_ghidra/</guid>
+      <description>&lt;p&gt;I have been massively interested in the modding scene for Mario Kart Wii for a long time now. Seeing this much dedication for a game that&amp;rsquo;s 17 years old is quite rare, but what&amp;rsquo;s rarer is the lengths people go to make these mods work on the antiquated hardware that is the Nintendo Wii.&lt;/p&gt;&#xA;&lt;p&gt;While all of the custom tracks, characters and vehicles that people are somehow still making in ancient tools like BrawlBox (Yes, I know people use &lt;a href=&#34;https://github.com/soopercool101/BrawlCrate&#34;&gt;BrawlCrate&lt;/a&gt; now, but it&amp;rsquo;s still a fork of BrawlBox) are very impressive, what&amp;rsquo;s always drawn my attention more is the boring stuff. Things like custom track frameworks such as the original &lt;a href=&#34;https://github.com/Chadderz121/wii-ct-code&#34;&gt;CT-CODE&lt;/a&gt; or &lt;a href=&#34;https://wiki.tockdom.com/wiki/LE-CODE&#34;&gt;LE-CODE&lt;/a&gt;, the many fun additions to the base game that can be found in modern distributions, the open-source &lt;a href=&#34;https://wfc.wiilink24.com/&#34;&gt;WiiLink WFC servers&lt;/a&gt; and the extensive features that can be found in &lt;a href=&#34;https://mkw-sp.com/&#34;&gt;MKW-SP&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
