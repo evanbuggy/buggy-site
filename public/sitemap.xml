@@ -5,20 +5,27 @@
         
         <url>
             <loc>http://localhost:1313/</loc>
-            <lastmod>2025-05-09T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:1313/posts/mario_kart_wii_static_analysis_with_ghidra/</loc>
-            <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+            <lastmod>2025-10-19T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/posts/</loc>
+            <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/programming_paradigms_and_how_non-imperative_languages_are_used_today/</loc>
+            <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/mario_kart_wii_static_analysis_with_ghidra/</loc>
             <lastmod>2025-05-09T00:00:00+00:00</lastmod>
         </url>
         

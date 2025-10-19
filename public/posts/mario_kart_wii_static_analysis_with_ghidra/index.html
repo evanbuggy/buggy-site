@@ -88,7 +88,8 @@ May. 9, 2025
 <p>This is the part where I would write about how to bring the binaries into Ghidra, but thankfully, terorie made a fantastic post on <a href="https://mariokartwii.com">mariokartwii.com</a> which explains the process so I don&rsquo;t have to! You can find it <a href="https://mariokartwii.com/archive/index.php?thread-1193.html">here</a>. The guide goes through basic installation instructions for Ghidra and the additional things you&rsquo;ll need to allow Ghidra to correctly read the binaries.</p>
 <p>The guide also contains this fantastic line:</p>
 <blockquote>
-<p>You can close it back down again because sadly the NSA didn&rsquo;t include logic to parse .dol/.rel files, or to understand the Wii&rsquo;s Broadway CPU. Maybe we need more mkwii cybercrime, just saying.</p></blockquote>
+<p>You can close it back down again because sadly the NSA didn&rsquo;t include logic to parse .dol/.rel files, or to understand the Wii&rsquo;s Broadway CPU. Maybe we need more mkwii cybercrime, just saying.</p>
+</blockquote>
 <p>Once you have both binaries in a project in Ghidra, you can perform analysis on both of them. You&rsquo;ll end up with a window that looks something like this:</p>
 <p><img src="https://github.com/evanbuggy/buggy-site/blob/main/static/ghidra_main_dol.png?raw=true" alt="A CodeBrowser window in Ghidra."></p>
 <p>What you might notice about both of these binaries is that their address range begins at 0x80004000. .dol files can only reach an address range of 0x80004000 to 0x81200000 as anything outside of this range is reserved for the Wii&rsquo;s OS.</p>
