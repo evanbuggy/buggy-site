@@ -3,11 +3,19 @@ date = "2025-05-04T21:05:33+05:30"
 title = "About"
 +++
 
-I'm Evan Buggy, a student at the University of Limerick currently in my 4th year of computer science for game development. Video games, game development, modding, homebrew and programming in general keep me busy in my free time, as well as making an incessant amount of tea.
+I'm Evan Buggy, a Computer Science for Games Development graduate from the University of Limerick. Currently staying in Limerick and open to work.
 
-Many aspects of game development pique my interest; things such as 2D art and spritework, 3D modelling, animation, writing, gameplay design and theory, programming and more. But as most developers do, on this website, you will probably find me discussing these things more than actually doing them.
+I am a developer with a passion for game development and programming. Many aspects of game development pique my interest; things such as 2D art and spritework, 3D modelling, animation, writing, gameplay design and theory, programming and more. But as most developers do, on this website, you will probably find me discussing these things more than actually doing them.
 
 Blog posts will primarily be for whatever is on my mind, but generally speaking there will be a lot of pieces of me talking about the games I play and various aspects about them. The gallery is reserved for either embarassing old art I did when I was younger, or (hopefully) some newer, nicer looking pieces and showcases of my work as a developer.
+
+# Education
+
+Bsc. Games Development, University of Limerick
+
+# Experience
+
+Undergarduate DevSecOps Engineer - Jaguar Land Rover (2025)
 
 # My Links
 
@@ -20,4 +28,4 @@ This website is powered by Hugo, using the Console theme by [Marcin Mierzejewski
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S31CIFY)
 
-Copyright © 2025 Evan Buggy
+Copyright © 2026 Evan Buggy
