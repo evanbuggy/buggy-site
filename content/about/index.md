@@ -17,6 +17,10 @@ Bsc. Games Development, University of Limerick
 
 Undergarduate DevSecOps Engineer - Jaguar Land Rover (2025)
 
+# How this Site Works
+
+Hugo is a static site generator. The site you are currently on right now is hosted on GitHub pages. Every new blog post is a commit that uses GitHub Actions to redeploy. This is basically because when I am writing stuff, I just want it to be as simple as possible to get my words out there so I don't have to think too hard about updating my website.
+
 # My Links
 
 - [BlueSky](https://bsky.app/profile/buggy.cafe)
